@@ -3,7 +3,7 @@
 # English version:
 
 ### 一、Introduction：
-Monitor bet365 in-play football matches odds.
+Monitor bet365 in-play football matches scores.
 
 ### 二、Getting Started：
 require PyExecJS,requests,autobahn,twisted. 
@@ -25,14 +25,13 @@ If it can't get data after running, try using the following API.
 
 1. Get all live football matches, url: http://www.365api.vip/b365/soccer/test/allEv?lang=en
 2. Get odds of all matches for goal line, url： http://www.365api.vip/b365/soccer/test/oneHd2allEv/C1-G15?lang=en
-3. API docs and more data:  http://www.365api.site/en/
-  
+
     
     
 # 中文版:
 
 ### 一、功能描述：
-bet365的比赛实时比分数据、实时赔率监控.
+bet365的比赛实时比分数据、实时赛况监控.
 
 ### 二、使用方法：
 要求安装 PyExecJS,requests,autobahn,twisted.
@@ -54,6 +53,4 @@ bet365的比赛实时比分数据、实时赔率监控.
 
 1. 获取当前进行的足球赛事，地址： http://www.365api.vip/b365/soccer/test/allEv
 2. 获取所有赛事大小盘实时赔率，地址： http://www.365api.vip/b365/soccer/test/oneHd2allEv/C1-G15
-3. 更多数据接口和说明：  http://www.365api.site/cn/  
-
 
