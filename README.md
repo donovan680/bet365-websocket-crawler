@@ -25,7 +25,6 @@ If it can't get data after running, try using the following API.
 
 1. Get all live football matches, url: http://www.365api.vip/b365/soccer/test/allEv?lang=en
 2. Get odds of all matches for goal line, url： http://www.365api.vip/b365/soccer/test/oneHd2allEv/C1-G15?lang=en
-
     
     
 # 中文版:
@@ -53,4 +52,4 @@ bet365的比赛实时比分数据、实时赛况监控.
 
 1. 获取当前进行的足球赛事，地址： http://www.365api.vip/b365/soccer/test/allEv
 2. 获取所有赛事大小盘实时赔率，地址： http://www.365api.vip/b365/soccer/test/oneHd2allEv/C1-G15
-
+3、爬虫数据联系qq:3403027828 (非法用途者请勿来骚扰，数据仅可用于分析计算)
